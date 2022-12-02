@@ -88,18 +88,9 @@ a {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    min-height: 100vh;
+    min-height: 90vh;
     width: 90%;
     margin: auto;
-}
-
-.texto {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    text-align: center;
-    padding: 3/em 0;
 }
 
 .photo {
